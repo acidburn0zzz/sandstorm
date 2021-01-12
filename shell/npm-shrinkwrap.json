@@ -556,7 +556,8 @@
       "integrity": "sha1-BTfLedr1m1mhpRff9wbIbsA5Fi4="
     },
     "intro.js": {
-      "version": "git+https://github.com/sandstorm-io/intro.js.git#8e1c7604f251ec874bf4ae4d7b4f11a14cee697e"
+      "version": "git+https://github.com/sandstorm-io/intro.js.git#8e1c7604f251ec874bf4ae4d7b4f11a14cee697e",
+      "from": "git+https://github.com/sandstorm-io/intro.js.git#8e1c7604f251ec874bf4ae4d7b4f11a14cee697e"
     },
     "ip": {
       "version": "1.1.5",
@@ -835,9 +836,9 @@
       "optional": true
     },
     "node-forge": {
-      "version": "0.6.49",
-      "resolved": "https://registry.npmjs.org/node-forge/-/node-forge-0.6.49.tgz",
-      "integrity": "sha1-8e6V1ddGI5OP4Z1piqWibVTS9g8="
+      "version": "0.10.0",
+      "resolved": "https://registry.npmjs.org/node-forge/-/node-forge-0.10.0.tgz",
+      "integrity": "sha512-PPmu8eEeG9saEUvI97fm4OYxXVB6bFvyNTyiUOBichBpFG8A1Ljw3bY62+5oOjDEMHRnd0Y7HQ+x7uzxOzC6JA=="
     },
     "node-pre-gyp": {
       "version": "0.6.36",
@@ -1426,7 +1427,8 @@
       },
       "dependencies": {
         "xmldom": {
-          "version": "git+https://github.com/yaronn/xmldom.git#68768a6a31f55b0737d7beb88807bc80146b2651"
+          "version": "git+https://github.com/yaronn/xmldom.git#68768a6a31f55b0737d7beb88807bc80146b2651",
+          "from": "git+https://github.com/yaronn/xmldom.git#68768a6a31f55b0737d7beb88807bc80146b2651"
         }
       }
     },
